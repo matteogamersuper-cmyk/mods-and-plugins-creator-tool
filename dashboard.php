@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Dashboard per creare e gestire mod e plugin per Minecraft.">
+    <title>Dashboard | Minecraft Mods and Plugins Creator</title>
+</head>
+<body>
+    <header>
+    <main>
+        <h3>Coming Soon, Check Discord for Updates</h3>
+    </main>
+</body>
+</html>
